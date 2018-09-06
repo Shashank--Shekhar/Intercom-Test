@@ -3,8 +3,8 @@ This repository provides capability to calculate distance between 2 coordinates
 
 ## How to use?
 
-Execute java -jar /out/artifacts/Intercom_Test_jar/Intercom-Test.jar <<search radius in kms>> [Unix/Mac OsX]
-		java -jar \out\artifacts\Intercom_Test_jar\Intercom-Test.jar <<search radius in kms>> [Windows OS]
+**Execute**: java -jar /out/artifacts/Intercom_Test_jar/Intercom-Test.jar {{search radius in kms}} [Unix/Mac OsX]
+java -jar \out\artifacts\Intercom_Test_jar\Intercom-Test.jar {{search radius in kms}} [Windows OS]
 
 ## Authors
 
